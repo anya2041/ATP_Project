@@ -7,7 +7,7 @@ import seaborn as sns
 
 ################# now use the merge+slice as clean data and process it to get the plots #############
 
-f_path = "C:/Users/Anya/Downloads/D1-16/" #path ofr cleaned csv files generated 
+f_path = "C:/Users/Anya/Projects/ATP_Project" #path ofr cleaned csv files generated 
 
 # Define the files and their corresponding experiment labels
 files_info = {
